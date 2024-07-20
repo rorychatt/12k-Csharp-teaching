@@ -13,3 +13,11 @@
 `dotnet add reference ./Calculator.Business/Calculator.Business.csproj`
 
 -- Добавляет ссылку на класс библиотек в проект
+
+`dotnet new console -o Calculator.Console`
+
+-- Создает приложение под консоль
+
+`dotnet add reference ./Calculator.Console/Calculator.Console.csproj`
+
+-- Добавляет ссылку на консольное приложение в проект
