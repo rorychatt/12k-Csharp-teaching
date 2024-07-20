@@ -1,6 +1,6 @@
 ﻿namespace Calculator.Business;
 
-public class Class1
+public class Calculator
 {
     public int Add(int a, int b)
     {
