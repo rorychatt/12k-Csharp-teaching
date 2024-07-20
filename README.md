@@ -21,3 +21,7 @@
 `dotnet add reference ./Calculator.Console/Calculator.Console.csproj`
 
 -- Добавляет ссылку на консольное приложение в проект
+
+`dotnet add ./Calculator.Business/Calculator.Business.csproj reference ./Calculator.Console/Calculator.Console.csproj`
+
+-- Добавляет ссылку на логику калькулятора в консольное приложение
