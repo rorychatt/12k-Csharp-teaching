@@ -1,3 +1,5 @@
+This is a public repo I made for my friend to help him start with C#
+
 `dotnet new gitignore`
 
 -- создаст темплейт для игнора компилированных файлов
