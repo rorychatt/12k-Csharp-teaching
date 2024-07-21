@@ -2,5 +2,5 @@
 
 public static class FunctionalCalculator
 {
-   
+   ParallelOptions parallelOptions= new ParallelOptions();
 }
